@@ -13,28 +13,26 @@ Built with **React, Node.js, Express, MongoDB, and Google Gemini AI**, it helps 
 
 ## Screenshots
 
-Place application screenshots in a `screenshots/` directory at the repository root, using the filenames below, or update the image paths to match your files.
-
 ### Login Page
 
-![Login page](screenshots/login.png)
+![Login page](login.png)
 
 ### Register Page
 
-![Register page](screenshots/register.png)
+![Register page](register.png)
 
 ### Resume and Job Description Upload
 
-![Resume and job description upload page](screenshots/dashboard.png)
-![Resume and job description upload page](screenshots/dashboard2.png)
+![Resume and job description upload page](dashboard.png)
+![Resume and job description upload page](dashboard2.png)
 
 ### Interview Preparation Report
 
-![Technical / Behaviour preparation report](screenshots/technical.png)
+![Technical / Behaviour preparation report](technical.png)
 
 ### Preparation Plan
 
-![Seven-day preparation plan](screenshots/roadmap.png)
+![Seven-day preparation plan](roadmap.png)
 
 ---
 
