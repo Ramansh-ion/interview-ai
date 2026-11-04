@@ -19,17 +19,22 @@ Place application screenshots in a `screenshots/` directory at the repository ro
 
 ![Login page](screenshots/login.png)
 
+### Register Page
+
+![Register page](screenshots/register.png)
+
 ### Resume and Job Description Upload
 
-![Resume and job description upload page](screenshots/upload.png)
+![Resume and job description upload page](screenshots/dashboard.png)
+![Resume and job description upload page](screenshots/dashboard2.png)
 
 ### Interview Preparation Report
 
-![Interview preparation report](screenshots/interview-report.png)
+![Technical / Behaviour preparation report](screenshots/technical.png)
 
 ### Preparation Plan
 
-![Seven-day preparation plan](screenshots/preparation-plan.png)
+![Seven-day preparation plan](screenshots/roadmap.png)
 
 ---
 
